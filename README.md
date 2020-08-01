@@ -22,7 +22,7 @@ Realizei alguns tratamentos e medidas, tais como:
 
 <br><br>
 
-![Screenshot](dashCrimesmedidas.PNG)
+![Screenshot](dashCrimesMedidas.PNG)
 
 <br><br>
 ## 🚀 Technologies Used 
