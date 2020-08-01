@@ -7,7 +7,7 @@ e realizamos o tratamento de dados através da ferramenta PowerBI.
 
 # # Dashboard Presentation (Crimes) (RMBH)
 
-![Screenshot](dashboardCovid.PNG)
+![Screenshot](dashboardCrime.PNG)
 
 <br><br>
 # Tratament Data
@@ -22,7 +22,7 @@ Realizei alguns tratamentos e medidas, tais como:
 
 <br><br>
 
-![Screenshot](medidasCovid.PNG)
+![Screenshot](dashCrimesmedidas.PNG)
 
 <br><br>
 ## 🚀 Technologies Used 
