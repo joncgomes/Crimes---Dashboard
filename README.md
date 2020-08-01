@@ -14,10 +14,10 @@ e realizamos o tratamento de dados através da ferramenta PowerBI.
 
 Realizei alguns tratamentos e medidas, tais como:
 
-• Filtros de Datas;
-• Filtros por Região;
-• Qtde de Crimes;
-• Qtde de Natureza de Crimes;
+• Filtros de Datas;<br>
+• Filtros por Região;<br>
+• Qtde de Crimes;<br>
+• Qtde de Natureza de Crimes;<br>
 • Regiao com mais crimes.
 
 <br><br>
