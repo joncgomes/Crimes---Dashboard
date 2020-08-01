@@ -1,4 +1,4 @@
-# Crimes---Dashboard 📈
+# Crimes Dashboard 📈
 
 ## 📝 Description 
 
